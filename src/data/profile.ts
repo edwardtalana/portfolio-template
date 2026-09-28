@@ -11,8 +11,6 @@ export const profile = {
   tagline: "Managing online stores, optimizing workflows, and elevating customer support on Shopify.",
   about: "I am passionate about providing exceptional support as a virtual assistant, specializing in e-commerce and customer service. With a strong background in managing online stores, particularly on Shopify, I thrive in fast-paced environments where I can use my organizational skills and attention to detail to streamline operations.",
   mission: "I am passionate about providing exceptional support that empowers businesses to thrive in the fast-paced world of e-commerce. As a General and Shopify Virtual Assistant, I streamline operations, manage online platforms, and enhance customer experiences with empathy and efficiency.",
-  goal: "I aspire to excel as a General Virtual Assistant, leveraging my organizational and multitasking skills to support clients in achieving their goals efficiently, specializing in Shopify e-commerce operations.",
-
   stats: [
     { label: "Years Experience", value: "4+" },
     { label: "CSAT Score Boost", value: "25%" },
