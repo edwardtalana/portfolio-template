@@ -12,7 +12,12 @@ export const profile = {
   facebook: "https://facebook.com/eds.talana.5/",
   avatarSrc: "https://github.com/edwardtalana.png",
   verifiedLabel: "Verified Specialist",
-  headline: "Shopify & E-commerce Operations Specialist",
+
+  headline: {
+    line1: "Shopify & E-commerce",
+    line2: "Operations Specialist"
+  },
+
   tagline: "Managing online stores, optimizing workflows, and elevating customer support on Shopify.",
   about: "I am passionate about providing exceptional support as a virtual assistant, specializing in e-commerce and customer service. With a strong background in managing online stores, particularly on Shopify, I thrive in fast-paced environments where I can use my organizational skills and attention to detail to streamline operations.",
   mission: "I am passionate about providing exceptional support that empowers businesses to thrive in the fast-paced world of e-commerce. As a General and Shopify Virtual Assistant, I streamline operations, manage online platforms, and enhance customer experiences with empathy and efficiency.",
@@ -21,14 +26,15 @@ export const profile = {
   hero: {
     title: "Shopify & E-commerce Operations Specialist",
     subtitle: "Managing online stores, optimizing workflows, and elevating customer support on Shopify.",
+    body: "Dedicated virtual assistant and e-commerce specialist focusing on Shopify operations, customer retention, and workflow efficiency.",
     primaryCta: { label: "Contact Me", href: "mailto:edwardtalana@gmail.com" },
     secondaryCta: { label: "LinkedIn", href: "https://linkedin.com/in/edward-talana-451529196" }
   },
 
   stats: [
-    { label: "Years Experience", value: "4+" },
-    { label: "CSAT Boost", value: "25%" },
-    { label: "Accounts Managed", value: "30+" }
+    { label: "Years Experience", value: "4+", Icon: "Award" },
+    { label: "CSAT Boost", value: "25%", Icon: "TrendingUp" },
+    { label: "Accounts Managed", value: "30+", Icon: "Briefcase" }
   ],
 
   socials: [
