@@ -1,20 +1,34 @@
 export const profile = {
   name: "Edward Parales Talana",
+  firstName: "Edward",
+  displayName: "Edward Parales Talana",
   title: "Shopify & E-commerce Operations Specialist",
+  role: "Shopify & E-commerce Operations Specialist",
   handle: "@edwardtalana",
   email: "edwardtalana@gmail.com",
   phone: "+639919567836",
   location: "Cavite City, Philippines",
   linkedin: "https://linkedin.com/in/edward-talana-451529196",
   facebook: "https://facebook.com/eds.talana.5/",
+  avatarSrc: "https://github.com/edwardtalana.png",
+  verifiedLabel: "Verified Specialist",
   headline: "Shopify & E-commerce Operations Specialist",
   tagline: "Managing online stores, optimizing workflows, and elevating customer support on Shopify.",
   about: "I am passionate about providing exceptional support as a virtual assistant, specializing in e-commerce and customer service. With a strong background in managing online stores, particularly on Shopify, I thrive in fast-paced environments where I can use my organizational skills and attention to detail to streamline operations.",
   mission: "I am passionate about providing exceptional support that empowers businesses to thrive in the fast-paced world of e-commerce. As a General and Shopify Virtual Assistant, I streamline operations, manage online platforms, and enhance customer experiences with empathy and efficiency.",
+  goal: "I aspire to excel as a General Virtual Assistant, leveraging my organizational and multitasking skills to support clients in achieving their goals efficiently, specializing in Shopify e-commerce operations.",
+
+  hero: {
+    title: "Shopify & E-commerce Operations Specialist",
+    subtitle: "Managing online stores, optimizing workflows, and elevating customer support on Shopify.",
+    primaryCta: { label: "Contact Me", href: "mailto:edwardtalana@gmail.com" },
+    secondaryCta: { label: "LinkedIn", href: "https://linkedin.com/in/edward-talana-451529196" }
+  },
+
   stats: [
     { label: "Years Experience", value: "4+" },
-    { label: "CSAT Score Boost", value: "25%" },
-    { label: "Key Accounts Managed", value: "30+" }
+    { label: "CSAT Boost", value: "25%" },
+    { label: "Accounts Managed", value: "30+" }
   ],
 
   socials: [
