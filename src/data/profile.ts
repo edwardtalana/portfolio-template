@@ -1,4 +1,8 @@
-export const profile = {
+export const profile = {npm install
+npm run dev        # http://localhost:5173
+npm run build      # typecheck + production build to dist/
+npm run lint       # ESLint with the TypeScript parser and the React hooks rules
+
   name: "Edward Parales Talana",
   title: "Shopify & E-commerce Operations Specialist",
   handle: "@edwardtalana",
