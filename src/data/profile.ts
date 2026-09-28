@@ -1,4 +1,3 @@
-Fix profile export name
 export const profile = {
   name: "Edward Parales Talana",
   title: "Shopify & E-commerce Operations Specialist",
